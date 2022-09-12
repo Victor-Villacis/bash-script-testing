@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hello World"
+echo "Hello"
 
 # Run date and hostname command and store output to shell variables
 now="$(date)"
